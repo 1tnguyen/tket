@@ -24,6 +24,9 @@ Minor new features:
   TK2 gates.
 * Add ``Optype.WASM``, adding a classical wasm function call to the circuit
 * Add optype for existing PhasePolyBox ``OpType.PhasePolyBox``
+* New ``circuit_from_qasm_wasm`` function to parse QASM files containing
+  external WASM calls.
+* Faster QASM parsing, capable of parsing extended grammar.
 
 1.1.0 (April 2022)
 ------------------

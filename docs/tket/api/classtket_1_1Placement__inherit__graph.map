@@ -1,7 +1,6 @@
 <map id="tket::Placement" name="tket::Placement">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,129,108"/>
-<area shape="rect" id="node2" href="$classtket_1_1GraphPlacement.html" title=" " alt="" coords="197,5,360,32"/>
-<area shape="rect" id="node3" href="$classtket_1_1LinePlacement.html" title=" " alt="" coords="203,56,354,83"/>
-<area shape="rect" id="node4" href="$classtket_1_1NaivePlacement.html" title="NaivePlacement class provides methods for relabelling any Qubit objects in some Circuit to Node objec..." alt="" coords="197,107,360,133"/>
-<area shape="rect" id="node5" href="$classtket_1_1NoiseAwarePlacement.html" title=" " alt="" coords="177,157,380,184"/>
+<area shape="rect" id="node1" title=" " alt="" coords="119,5,243,32"/>
+<area shape="rect" id="node2" href="$classtket_1_1GraphPlacement.html" title=" " alt="" coords="99,80,262,107"/>
+<area shape="rect" id="node3" href="$classtket_1_1LinePlacement.html" title=" " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$classtket_1_1NoiseAwarePlacement.html" title=" " alt="" coords="181,155,383,181"/>
 </map>

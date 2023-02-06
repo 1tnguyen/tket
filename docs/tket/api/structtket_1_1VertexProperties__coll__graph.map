@@ -1,7 +1,4 @@
 <map id="tket::VertexProperties" name="tket::VertexProperties">
-<area shape="rect" id="node1" title="Description of a node in a circuit, representing some operation." alt="" coords="71,288,234,315"/>
-<area shape="rect" id="node2" title=" " alt="" coords="49,199,256,225"/>
-<area shape="rect" id="node3" href="$classtket_1_1Op.html" title="Abstract class representing an operation type." alt="" coords="116,109,189,136"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,151,47"/>
-<area shape="rect" id="node5" href="$classtket_1_1OpDesc.html" title="Operation descriptor." alt="" coords="175,13,280,39"/>
+<area shape="rect" id="node1" title="Description of a node in a circuit, representing some operation." alt="" coords="27,95,190,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,212,32"/>
 </map>

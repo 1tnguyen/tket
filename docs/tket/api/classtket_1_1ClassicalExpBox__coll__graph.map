@@ -1,18 +1,10 @@
 <map id="tket::ClassicalExpBox&lt; T &gt;" name="tket::ClassicalExpBox&lt; T &gt;">
-<area shape="rect" id="node1" title="Holding box for abstract expressions on Bits Templated by type which holds expression." alt="" coords="253,572,453,599"/>
-<area shape="rect" id="node2" href="$classtket_1_1Box.html" title="Abstract class for an operation from which a circuit can be extracted." alt="" coords="313,496,393,523"/>
-<area shape="rect" id="node3" href="$classtket_1_1Op.html" title="Abstract class representing an operation type." alt="" coords="164,399,237,426"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,288,151,329"/>
-<area shape="rect" id="node5" href="$classtket_1_1OpDesc.html" title="Operation descriptor." alt="" coords="175,295,280,322"/>
-<area shape="rect" id="node6" title=" " alt="" coords="261,399,444,426"/>
-<area shape="rect" id="node7" title=" " alt="" coords="677,392,836,433"/>
-<area shape="rect" id="node8" href="$classtket_1_1Circuit.html" title="A circuit." alt="" coords="675,295,772,322"/>
-<area shape="rect" id="node9" href="$classtket_1_1Circuit_1_1SliceIterator.html" title=" " alt="" coords="469,399,653,426"/>
-<area shape="rect" id="node10" title=" " alt="" coords="283,184,425,225"/>
-<area shape="rect" id="node11" href="$structtket_1_1CutFrontier.html" title=" " alt="" coords="489,295,616,322"/>
-<area shape="rect" id="node12" title=" " alt="" coords="449,184,608,225"/>
-<area shape="rect" id="node13" title=" " alt="" coords="632,191,812,218"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="657,95,787,121"/>
-<area shape="rect" id="node15" title=" " alt="" coords="703,5,741,32"/>
-<area shape="rect" id="node16" href="$classtket_1_1Circuit_1_1CommandIterator.html" title=" " alt="" coords="836,191,1056,218"/>
+<area shape="rect" id="node1" title="Holding box for abstract expressions on Bits Templated by type T which holds expression." alt="" coords="205,365,405,392"/>
+<area shape="rect" id="node2" href="$classtket_1_1ClassicalExpBoxBase.html" title=" " alt="" coords="207,289,402,316"/>
+<area shape="rect" id="node3" href="$classtket_1_1Box.html" title="Abstract class for an operation from which a circuit can be extracted." alt="" coords="265,213,345,240"/>
+<area shape="rect" id="node4" href="$classtket_1_1Op.html" title="Abstract class representing an operation type." alt="" coords="116,117,189,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node6" href="$classtket_1_1OpDesc.html" title="Operation descriptor." alt="" coords="175,13,280,39"/>
+<area shape="rect" id="node7" title=" " alt="" coords="213,117,396,143"/>
+<area shape="rect" id="node8" title=" " alt="" coords="420,109,579,151"/>
 </map>

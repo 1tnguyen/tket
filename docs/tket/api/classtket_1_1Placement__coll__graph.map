@@ -1,12 +1,10 @@
 <map id="tket::Placement" name="tket::Placement">
-<area shape="rect" id="node1" title=" " alt="" coords="44,803,168,829"/>
-<area shape="rect" id="node2" href="$classtket_1_1Architecture.html" title=" " alt="" coords="39,713,173,740"/>
-<area shape="rect" id="node3" href="$classtket_1_1ArchitectureBase.html" title=" " alt="" coords="15,608,197,664"/>
-<area shape="rect" id="node4" href="$classtket_1_1graphs_1_1DirectedGraph.html" title=" " alt="" coords="5,517,207,559"/>
-<area shape="rect" id="node5" href="$classtket_1_1graphs_1_1DirectedGraphBase.html" title=" " alt="" coords="5,427,207,468"/>
-<area shape="rect" id="node6" href="$classtket_1_1graphs_1_1AbstractGraph.html" title=" " alt="" coords="6,336,206,377"/>
-<area shape="rect" id="node7" title=" " alt="" coords="39,247,173,273"/>
-<area shape="rect" id="node8" href="$classtket_1_1Node.html" title="Architectural qubit location." alt="" coords="61,157,151,184"/>
-<area shape="rect" id="node9" href="$classtket_1_1Qubit.html" title="Location holding a qubit." alt="" coords="61,81,151,108"/>
-<area shape="rect" id="node10" href="$classtket_1_1UnitID.html" title="Location holding a bit or qubit of information." alt="" coords="58,5,154,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="63,621,187,648"/>
+<area shape="rect" id="node2" href="$classtket_1_1Architecture.html" title=" " alt="" coords="57,532,192,559"/>
+<area shape="rect" id="node3" href="$classtket_1_1ArchitectureBase.html" title=" " alt="" coords="33,427,216,483"/>
+<area shape="rect" id="node4" href="$classtket_1_1graphs_1_1DirectedGraph.html" title="DirectedGraph instances are loop&#45;free directed graphs." alt="" coords="5,351,244,377"/>
+<area shape="rect" id="node5" href="$classtket_1_1graphs_1_1DirectedGraphBase.html" title=" " alt="" coords="24,260,225,301"/>
+<area shape="rect" id="node6" href="$classtket_1_1graphs_1_1AbstractGraph.html" title="Abstract class for representing graphs." alt="" coords="5,184,244,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="71,95,179,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="105,5,144,32"/>
 </map>

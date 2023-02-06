@@ -1,8 +1,4 @@
 <map id="tket::graphs::detail::TreeSearch&lt; Graph, PMap, HasImplicitIndex &gt;" name="tket::graphs::detail::TreeSearch&lt; Graph, PMap, HasImplicitIndex &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="743,43,937,99"/>
-<area shape="rect" id="node2" href="$classtket_1_1graphs_1_1detail_1_1TreeSearchBase.html" title=" " alt="" coords="487,35,693,106"/>
-<area shape="rect" id="node3" title=" " alt="" coords="179,7,365,33"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,7,65,33"/>
-<area shape="rect" id="node5" title=" " alt="" coords="191,57,353,84"/>
-<area shape="rect" id="node6" title=" " alt="" coords="189,109,355,150"/>
+<area shape="rect" id="node1" title=" " alt="" coords="260,13,455,69"/>
+<area shape="rect" id="node2" href="$classtket_1_1graphs_1_1detail_1_1TreeSearchBase.html" title=" " alt="" coords="5,5,212,76"/>
 </map>

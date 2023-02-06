@@ -1,8 +1,6 @@
 <map id="tket::CutFrontier" name="tket::CutFrontier">
-<area shape="rect" id="node1" title=" " alt="" coords="653,78,780,105"/>
-<area shape="rect" id="node2" title=" " alt="" coords="376,5,519,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="368,71,527,112"/>
-<area shape="rect" id="node4" title=" " alt="" coords="357,137,537,163"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="157,137,287,163"/>
-<area shape="rect" id="node6" title=" " alt="" coords="5,137,44,163"/>
+<area shape="rect" id="node1" title=" " alt="" coords="301,78,428,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="24,5,167,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="16,71,175,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,137,185,163"/>
 </map>

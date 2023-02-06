@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['qubit_5fplacement_2ecpp_2949',['Qubit_Placement.cpp',['../Qubit__Placement_8cpp.html',1,'']]]
+  ['qubitgraph_2ehpp_2835',['QubitGraph.hpp',['../QubitGraph_8hpp.html',1,'']]]
 ];

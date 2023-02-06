@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['safetymode_4866',['SafetyMode',['../namespacetket.html#ab65820ebbcb1ceb848e855a832420396',1,'tket']]],
-  ['steinernodetype_4867',['SteinerNodeType',['../namespacetket_1_1aas.html#a5d7e42ff2fcc3a26d82ea3d4dd415374',1,'tket::aas']]]
+  ['tableausegment_4727',['TableauSegment',['../classtket_1_1ChoiMixTableau.html#a4b7e94f491c095670df54eb2557257ab',1,'tket::ChoiMixTableau']]]
 ];
